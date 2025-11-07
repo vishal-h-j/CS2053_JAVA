@@ -15,3 +15,4 @@ public class HomeLoan implements Loan {
         return totalPayable / tenureInMonths;
     }
 }
+
