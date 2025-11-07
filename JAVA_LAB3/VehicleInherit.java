@@ -50,3 +50,4 @@ public class VehicleInherit {
         tesla.start();
     }
 }
+
