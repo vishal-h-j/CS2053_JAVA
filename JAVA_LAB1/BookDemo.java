@@ -24,3 +24,4 @@ class BookDemo {
         book2.display();
     }
 }
+
